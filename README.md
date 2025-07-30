@@ -6,13 +6,7 @@ HostelHubbPlus is a MERN stack project meticulously crafted to optimize hostel o
 Designed for four key actors—Students, Caretakers, Wardens, and Hostel Admins—each plays a crucial role in ensuring the system's efficient operation. 
 
 
-[Use Case Diagram](https://photos.app.goo.gl/jdKM7ACjaf6LMSn69)  
 
-[API documentation](https://docs.google.com/document/d/1KLBBAmtQ7TK-4vsfdeZGaIzZ-wtJS1CGRHJiGlzJrYc/edit?usp=sharing)
-
-[Database Schema](https://docs.google.com/document/d/1EhtUotJ_cZJKlgkPXjlb1y4eUhmX34KkrxGFvG6X4u8/edit?usp=sharing)
-
-[Class Diagram](https://photos.app.goo.gl/TsH8orQvwwRRD5mx8)
 
 ## Features
 
