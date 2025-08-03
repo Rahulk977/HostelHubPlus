@@ -103,7 +103,7 @@ For inserting dummy data of student I have kept the students_data.json file you 
   node insert_data.js
 ```
 ## Live Demo
-Check out the live demo of the application [here](https://hostel-hub-plus.vercel.app/).
+
 
 
 ### Login Credentials
