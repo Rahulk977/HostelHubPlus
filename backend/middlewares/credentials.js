@@ -1,5 +1,10 @@
 const allowedOrigins = require('./../utils/allowedOrigins');
 
+const allowedOrigins = [
+  'http://localhost:3000',
+  'https://hostel-hub-plus-three.vercel.app'
+];
+
 const credentials = (req, res, next) => {
   const origin = req.headers.origin;
   if (allowedOrigins.includes(origin)) {
