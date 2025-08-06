@@ -64,7 +64,8 @@ Designed for four key actorsâ€”Students, Caretakers, Wardens, and Hostel Adminsâ
 Clone the repository:
 
 ```bash
- <copy the github repository link>
+ https://github.com/Rahulk977/HostelHubPlus.git
+
   
 ```
 
@@ -105,6 +106,8 @@ For inserting dummy data of student I have kept the students_data.json file you 
 ## Live Demo
 
 
+will be update soon...
+
 
 ### Login Credentials
 
@@ -123,42 +126,54 @@ Some screenshots are provided for reference
 
 #### Home Page
 
-[![Screenshot-2024-06-12-at-12-43-13-AM.png](https://i.postimg.cc/kM1sPQ9F/Screenshot-2024-06-12-at-12-43-13-AM.png)](https://postimg.cc/MXBVyjnv)
+[![Screenshot-2025-08-06-at-4-36-39-PM.png](https://i.postimg.cc/NM6kZ9Nd/Screenshot-2025-08-06-at-4-36-39-PM.png)](https://postimg.cc/HcLMyx1M)
 
 ### Login Page
 
-[![Screenshot-2024-07-14-at-6-38-05-PM.png](https://i.postimg.cc/CM3hXVgs/Screenshot-2024-07-14-at-6-38-05-PM.png)](https://postimg.cc/SjGbY3jn)
+[![Screenshot-2025-08-06-at-4-37-26-PM.png](https://i.postimg.cc/5ypq2cWv/Screenshot-2025-08-06-at-4-37-26-PM.png)](https://postimg.cc/GT8sX52h)
 
 #### Manual Room Allocation
-[![Screenshot-2024-05-21-at-1-27-16-AM.png](https://i.postimg.cc/Y0tsBVY9/Screenshot-2024-05-21-at-1-27-16-AM.png)](https://postimg.cc/jwkXzM80)
 
+[![Screenshot-2025-08-06-at-4-44-23-PM.png](https://i.postimg.cc/nh9R0ztP/Screenshot-2025-08-06-at-4-44-23-PM.png)](https://postimg.cc/87DmCTcR)
+
+### Admin Dashboard
+
+[![Screenshot-2025-08-06-at-4-31-47-PM.png](https://i.postimg.cc/Rh1p1b5V/Screenshot-2025-08-06-at-4-31-47-PM.png)](https://postimg.cc/FkRxNpH2)
 
 #### Student Dashboard
 
-[![Screenshot-2024-05-21-at-1-49-50-AM.png](https://i.postimg.cc/rscwX8fr/Screenshot-2024-05-21-at-1-49-50-AM.png)](https://postimg.cc/dkHYGKPs)
+[![Screenshot-2025-08-06-at-4-49-19-PM.png](https://i.postimg.cc/cHLfk9nL/Screenshot-2025-08-06-at-4-49-19-PM.png)](https://postimg.cc/06h6bCnT)
 
 #### Hostel Allotment (only access to Hostel Admin)
 
-[![Screenshot-2024-05-21-at-1-40-00-AM.png](https://i.postimg.cc/BnwbLfnr/Screenshot-2024-05-21-at-1-40-00-AM.png)](https://postimg.cc/qNy4SYnw)
+[![Screenshot-2025-08-06-at-4-32-47-PM.png](https://i.postimg.cc/C1qQ5xc8/Screenshot-2025-08-06-at-4-32-47-PM.png)](https://postimg.cc/MMzDrq2Z)
+
+
 
 #### Specific Hostel Details and Random Room Allotment
+[![Screenshot-2025-08-06-at-4-44-23-PM.png](https://i.postimg.cc/nh9R0ztP/Screenshot-2025-08-06-at-4-44-23-PM.png)](https://postimg.cc/87DmCTcR)
 
-[![Screenshot-2024-05-21-at-1-40-39-AM.png](https://i.postimg.cc/FKMKpbcG/Screenshot-2024-05-21-at-1-40-39-AM.png)](https://postimg.cc/CZ4YLqcf)
 
 #### Marking Attendance
-[![Screenshot-2024-05-21-at-1-34-14-AM.png](https://i.postimg.cc/dtwLg9fx/Screenshot-2024-05-21-at-1-34-14-AM.png)](https://postimg.cc/0rXkw7PY)
+[![Screenshot-2025-08-06-at-4-44-51-PM.png](https://i.postimg.cc/jd5knc3K/Screenshot-2025-08-06-at-4-44-51-PM.png)](https://postimg.cc/RqkTj7zb)
 
 #### Manage Staff schedule
-[![Screenshot-2024-05-21-at-1-55-18-AM.png](https://i.postimg.cc/prZXPgS1/Screenshot-2024-05-21-at-1-55-18-AM.png)](https://postimg.cc/1V8ZHYsp)
+
+[![Screenshot-2025-08-06-at-4-52-08-PM.png](https://i.postimg.cc/ydDyYpYr/Screenshot-2025-08-06-at-4-52-08-PM.png)](https://postimg.cc/KkyM0NTn)
+
+
+### Stff Registration
+
+[![Screenshot-2025-08-06-at-4-45-06-PM.png](https://i.postimg.cc/RVDp7t2t/Screenshot-2025-08-06-at-4-45-06-PM.png)](https://postimg.cc/9ryBVDmX)
+
 
 #### Assign caretaker
-[![Screenshot-2024-05-21-at-1-50-34-AM.png](https://i.postimg.cc/g0XJ3twn/Screenshot-2024-05-21-at-1-50-34-AM.png)](https://postimg.cc/zLN8rjFr)
+[![Screenshot-2025-08-06-at-4-33-05-PM.png](https://i.postimg.cc/SK5PmMfq/Screenshot-2025-08-06-at-4-33-05-PM.png)](https://postimg.cc/wtX2V3rb)
 
-#### Hall caretaker
-[![Screenshot-2024-07-14-at-6-39-41-PM.png](https://i.postimg.cc/wjm69qXB/Screenshot-2024-07-14-at-6-39-41-PM.png)](https://postimg.cc/WdsRnPfR)
+#### Hall/Hostel caretaker
 
 
-#### Hostel Admin
-[![Screenshot-2024-07-14-at-6-50-08-PM.png](https://i.postimg.cc/xTsWhWB1/Screenshot-2024-07-14-at-6-50-08-PM.png)](https://postimg.cc/7f2sTQxF)
+[![Screenshot-2025-08-06-at-4-42-56-PM.png](https://i.postimg.cc/hG7kzsjh/Screenshot-2025-08-06-at-4-42-56-PM.png)](https://postimg.cc/d7wHg8GK)
+
 
 
