@@ -32,7 +32,7 @@ const Dashboard = () => {
         // Fetch notifications for the user
         privateApi.get('/notifications')
             .then(response => {
-                console.log(response);
+                // console.log(response);
                 setNotifications(response.data);
             })
             .catch(error => {
@@ -81,7 +81,10 @@ const Dashboard = () => {
     const hostelId = user.hostel || localStorage.getItem('hostelId'); // Assuming the hostel ID is stored here
 
 
-     console.log("hostelIdoooooooo",hostelId)
+    //  console.log("hostelIdoooooooo",hostelId)
+//      console.log("User object:", user);
+// console.log("user.hostel:", user?.hostel);
+
 
 
     // Define navigation links based on the user's role
@@ -162,8 +165,9 @@ const Dashboard = () => {
             { label: 'Manage Caretaker', to: '/hostel/assign-caretaker' },
             { label: 'Manage Warden', to: '/hostel/assign-warden' },
 
-            { label: 'Student Details', onClick: handleStudentDetailsClick },
+            // { label: 'Student Details', onClick: handleStudentDetailsClick },
             {label:'Register Student' ,to: '/register-student'},
+            { label: 'Student Details', onClick: handleStudentDetailsClick },
 
             // Add more caretaker-specific links here
         ];
