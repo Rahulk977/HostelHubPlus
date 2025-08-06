@@ -6,7 +6,7 @@ const allowedOrigins = [
   'http://localhost:3500',
   'http://localhost:3000',
   'http://localhost:4000',
-   // ✅ your actual deployed frontend
+   'https://hostel-hub-plus-three.vercel.app',// ✅ your actual deployed frontend
 ];
 
 module.exports = allowedOrigins;
