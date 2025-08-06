@@ -104,7 +104,7 @@ For inserting dummy data of student I have kept the students_data.json file you 
 ## Live Demo
 
 
-will be update soon...
+Live link:https://hostel-hub-plus-three.vercel.app/
 
 
 ### Login Credentials
